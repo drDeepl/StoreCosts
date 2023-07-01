@@ -1,4 +1,4 @@
 # Run project
 
-```ts npm install```
-```ts npm run sart:dev```
+<code>npm install</code>
+<code>npm run sart:dev</code>
